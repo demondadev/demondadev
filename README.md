@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/skullgg.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="skullgg.1" height="30" width="40" /></a>
+<h4 align="left">Discord ID/Username: skullgg.1</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
