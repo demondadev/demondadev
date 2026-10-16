@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demondadev&label=Profile%20views&color=0e75b6&style=flat" alt="demondadev" /> </p>
 
-- 🔭 I’m currently working on **RetroCore**
+- 🔭 I’m currently working on **Untitled rooms**
 
 - 🌱 I’m currently learning about **Games Developement**
 
-- 💬 Ask me about **minecraft or python.**
+- 💬 Ask me about **minecraft, game dev.**
 
 - 📫 How to reach me **demondahunter0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h4 align="left">Discord ID/: skullgg.1</h4>
+<h4 align="left">Discord ID/: skullop.1</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
